@@ -1,5 +1,5 @@
 # medvqa-leakage-audit
-Auditing Data Leakage in Medical Image Visual Question Answering Benchmarks
+Auditing Data Leakage in Medical Visual Question Answering Benchmarks
 
 ## Data
 - SLAKE: `git clone https://huggingface.co/datasets/BoKelvin/SLAKE` (unzip `imgs.zip`)
